@@ -9,7 +9,7 @@ Welcome to Chandan's documentation!
 .. toctree::
    :maxdepth: 2
    
-   feature-a.rst
+   research_experiance.rst   
 
 .. toctree::
    :maxdepth: 2
