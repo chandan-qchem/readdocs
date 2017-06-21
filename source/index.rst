@@ -8,13 +8,13 @@ Welcome to Chandan's documentation!
 
 .. toctree::
    :maxdepth: 2
-   
-   research_experiance.rst   
+
+   about_me.rst
 
 .. toctree::
    :maxdepth: 2
-
-   tutorials/tutorial-1.rst
+   
+   research_experiance.rst   
    
 .. toctree::
    :maxdepth: 2

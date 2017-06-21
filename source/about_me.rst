@@ -1,8 +1,5 @@
-Feature B
+About me
 =========
-
-Subsection
-----------
 
 
 
