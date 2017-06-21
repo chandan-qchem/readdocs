@@ -8,12 +8,18 @@ Welcome to Chandan's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: About me:
    
    feature-a.rst
 
 .. toctree::
    :maxdepth: 2
-   :caption: Tutorials:
+   :caption: Research Experiance:
 
    tutorials/tutorial-1.rst
+   
+.. toctree::
+   :maxdepth: 2
+   :caption: Publications:
+   Publications.rst
+
