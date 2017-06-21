@@ -1,4 +1,5 @@
 Research experiance
 ===================
 
-I am a PhD student at University of Oslo. 
+
+Theoretical chemistry, Computational chemistry, Molecular response properties

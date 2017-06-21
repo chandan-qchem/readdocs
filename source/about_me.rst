@@ -2,7 +2,4 @@ About me
 =========
 
 
-
-My name is Chandan Kumar.
-
-And checking a new git commit in feature B. 
+I am a PhD student at University of Oslo.
