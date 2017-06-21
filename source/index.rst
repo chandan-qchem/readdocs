@@ -21,5 +21,6 @@ Welcome to Chandan's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Publications:
+   
    Publications.rst
 
